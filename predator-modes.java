@@ -36,5 +36,6 @@ Mode.loc:[Start]
 {mode} = [cloaked]//:Wolfpredator//[Wolfpredatorcloaked.dae]//:<>
 {mode} = [dress]//:Classicpredator//[Classicpredatormask.dae]//:<>
 {mode} = [dress]//:Classicpredator//[Classicpredatordamage.dae]//:<>
+setup_[all_predator]<>
 {mode} = [dress]//:[add].{all_predator}.[Mask]
 {mode} = [dress]//:[add].{all_predator}.[Damage]
